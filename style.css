@@ -1,0 +1,59 @@
+.maral{
+  margin-top: 150px;
+  margin-left: 600px;
+}
+.add{
+  width: 200px;
+  height: 50px;
+  border-radius: 25px;
+  border: 1px;
+  background-color: aquamarine;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.land{
+  margin-top: 50px;
+  margin-left: 550px;
+}
+.name{
+  margin-left: 560px;
+}
+.add2{
+  width: 200px;
+  height: 50px;
+  border-radius: 25px;
+  border: 1px;
+  background-color: palegreen;
+}
+.add3{
+  width: 200px;
+  height: 50px;
+  border-radius: 25px;
+  border: 1px;
+  background-color: palevioletred;
+}
+body{
+  background: linear-gradient(320deg, #eb92be, #ffef78, #63c9b4);
+}
+.add4{
+  width: 200px;
+  height: 50px;
+  border-radius: 25px;
+  border: 1px;
+  background-color: palevioletred;
+}
+.add5{
+  width: 200px;
+  height: 50px;
+  border-radius: 25px;
+  border: 1px;
+  background-color: blueviolet;
+}
+.number{
+  margin-left: 585px;
+}
+h3{
+  
+}
